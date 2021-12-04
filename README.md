@@ -3,7 +3,7 @@
 ## BUILD & Run Locally
 - mvn clean install
 - mvn spring-boot:run 
-  - This will start server on port 6062
+  - This will start server on port 6063
 
 
 ## API
